@@ -1,0 +1,10 @@
+{
+    "expenses": [{
+        "date": 113022,
+        "payment": "credit",
+        "expense": 25,
+        "category": "food"
+    }],
+    "budget": 50,
+    "total expense": 25
+}

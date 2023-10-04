@@ -1,0 +1,18 @@
+{
+    "expenses": [
+        {
+            "date": 112522,
+            "payment": "debit",
+            "expense": 30,
+            "category": "food"
+        },
+        {
+            "date": 241122,
+            "payment": "credit",
+            "expense": 252,
+            "category": "food"
+        }
+    ],
+    "budget": 0,
+    "total expense": 282
+}
